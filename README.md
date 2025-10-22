@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Analytics Platform
+# 🎬 Netflix Analytics 
 
 <div align="center">
 
